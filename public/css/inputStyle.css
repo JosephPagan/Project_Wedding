@@ -1,0 +1,17 @@
+ul{
+ width: 90%;
+}
+#users > li {
+    display: flex;
+    width: 100%;
+    border-bottom: 2px solid darkgray;
+    align-items: center;
+}
+#users h3{
+    width: 30%;
+}
+#users h4{
+    margin-left: 3%;
+}
+
+
